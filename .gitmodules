@@ -1,3 +1,6 @@
 [submodule "Externals/AppMP4Meta"]
 	path = Externals/AppMP4Meta
 	url = git@github.com:jimgraham/perl5-App-MP4Meta.git
+[submodule "Externals/WebService-TVBD"]
+	path = Externals/WebService-TVBD
+	url = git@github.com:jimgraham/perl5-WebService-TVDB.git
