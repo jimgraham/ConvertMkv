@@ -1,0 +1,3 @@
+[submodule "Externals/AppMP4Meta"]
+	path = Externals/AppMP4Meta
+	url = git@github.com:jimgraham/perl5-App-MP4Meta.git
