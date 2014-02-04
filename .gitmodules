@@ -1,0 +1,9 @@
+[submodule "Externals/AtomicParsley"]
+	path = Externals/AtomicParsley
+	url = git@github.com:jimgraham/perl5-AtomicParsley-Command.git
+[submodule "Externals/AppMP4Meta"]
+	path = Externals/AppMP4Meta
+	url = git@github.com:jimgraham/perl5-App-MP4Meta.git
+[submodule "Externals/WebServiceTVDB"]
+	path = Externals/WebServiceTVDB
+	url = git@github.com:jimgraham/perl5-WebService-TVDB.git

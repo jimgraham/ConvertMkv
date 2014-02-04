@@ -1,11 +1,13 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+use lib 'Externals/AppMP4Meta/lib';
+use lib 'Externals/AtomicParsley/lib';
+use lib 'Externals/WebServiceTVDB/lib';
 use File::Basename;
 use File::Find::Rule;
 use File::Which;
 use Getopt::Long;
-use Log::Log4perl;
 use REST::Client;
 
 #-- find ffprobe and ffmpeg
